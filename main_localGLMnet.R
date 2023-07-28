@@ -15,8 +15,10 @@ load("localGLMnet_example.RData")
 
 
 
-
+#Regularization parameters 
 eta = 0; alpha = 0
+
+
 string = "localGLMnet_example"
 look_back=10
 
